@@ -1,4 +1,4 @@
-# Property Listings in Dublin: _What's the going rate?_
+# Property Listings in Dublin:
 
 ### Obtaining the Data 
 
