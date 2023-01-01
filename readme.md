@@ -13,5 +13,5 @@
 
 - Basemap downloaded from here: 
     https://autoaddress.com/en-ie/support/developer-centre/resources/routing-key-boundaries 
-- Basemap and data joined to obtain statistics ***grouped by Eircode routing district**
+- Basemap and data joined to obtain statistics **grouped by Eircode routing district**
 - Done in QGIS using the Vector -> Intersection tool 
