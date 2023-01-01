@@ -1,4 +1,5 @@
-# Notes on the project
+# Property Listings in Dublin
+## _What's the going rate?_
 
 ### Obtaining the Data 
 
