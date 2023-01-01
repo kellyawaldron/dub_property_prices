@@ -1,4 +1,4 @@
-# Notes on the
+# Notes on the project
 
 ### Obtaining the Data 
 
