@@ -1,4 +1,4 @@
-# Propert Listings in Dublin
+# Property Listings in Dublin
 
 View map here: https://kellyawaldron.github.io/dublin_properties/
 
