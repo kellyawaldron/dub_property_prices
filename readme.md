@@ -1,6 +1,6 @@
 # Property Listings in Dublin
 
-View map here: https://kellyawaldron.github.io/dublin_properties/
+View map here: https://kellywaldro.github.io/dublin_properties/
 
 ### Obtaining the Data 
 
