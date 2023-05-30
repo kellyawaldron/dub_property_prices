@@ -10,7 +10,7 @@ View the map [here](https://kellywaldro.github.io/dublin_properties/)
 
 ### Obtaining the Geometry 
 
-- The latitude and longitude coordinates for each listing were obtained using the [Google Maps Geocoding API:](   https://developers.google.com/maps/documentation/geocoding/overview) in `Cleaning.ipynb`
+- The latitude and longitude coordinates for each listing were obtained using the [Google Maps Geocoding API](   https://developers.google.com/maps/documentation/geocoding/overview) in `Cleaning.ipynb`
 
 ### Joining the basemap and the data 
 
