@@ -14,7 +14,7 @@ View the map [here](https://kellywaldro.github.io/dublin_properties/)
 
 ### Joining the basemap and the data 
 
-- Basemap downloaded from [here](https://autoaddress.com/en-ie/support/developer-centre/resources/routing-key-boundaries): 
+- Basemap downloaded from [here](https://autoaddress.com/en-ie/support/developer-centre/resources/routing-key-boundaries)
 - Basemap and data joined to obtain statistics **grouped by Eircode routing district** (more about Eircodes [here](https://www.eircode.ie/what-is-eircode)
 - Done in QGIS using the Vector -> Intersection tool 
 
